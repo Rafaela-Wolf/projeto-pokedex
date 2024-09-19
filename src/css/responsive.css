@@ -59,3 +59,17 @@
         padding-right: 10px;
     }
 }
+
+@media (max-width: 293px) {
+    main {
+        padding: 20px;
+    }
+
+    .listagem {
+       margin: 20px;
+    }
+
+    .listagem ul {
+        justify-content: center;
+    }
+}
